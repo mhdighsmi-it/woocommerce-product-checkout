@@ -18,5 +18,5 @@ if ( file_exists( dirname( __FILE__ ) . '/vendor/autoload.php' ) ) {
 define('SC_PATH',plugin_dir_path(__FILE__));
 define('SC_DIR',plugin_dir_url(__FILE__));
 
-new \SC\Course_Metabox();
-new \SC\Action();
+new \SWPC\Course_Metabox();
+new \SWPC\Action();

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace SC;
+namespace SWPC;
 
 
 class Action

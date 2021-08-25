@@ -6,7 +6,7 @@
  * Time: 6:35 PM
  */
 
-namespace SC;
+namespace SWPC;
 
 
 class Course_Metabox
