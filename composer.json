@@ -1,0 +1,17 @@
+{
+    "name": "soalwp/set-checkou-page",
+    "description": "best plugin for this",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "soalwp",
+            "email": "soalwordpress@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{"SWPC\\":"./include"}
+    },
+    "require": {}
+}
